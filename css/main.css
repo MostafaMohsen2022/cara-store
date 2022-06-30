@@ -1,0 +1,133 @@
+.nav-main {
+    background-color: #e3e6f3;
+}
+
+.carding::after {
+    content: "0";
+    color: white;
+    font-weight: bold;
+    background-color: #088178;
+    margin-left: -5px;
+    padding: 10px;
+    max-height: 5px;
+    border-radius: 40%;
+}
+
+.main {
+    height: 100vh;
+    background-image: url(../img/hero4.png);
+    background-position: center;
+    background-position-y: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.deals {
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+.shop-now {
+    background: url(../img/button.png) no-repeat;
+    border: none;
+    max-width: 300px;
+    padding: 20px;
+}
+
+.theme-color {
+    color: #088178;
+}
+
+.features {
+    height: 100vh;
+    clear: none;
+}
+
+.product {
+    border-radius: 20px;
+}
+
+.repair {
+    background-image: url(../img/b2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clear: none;
+}
+
+.product-left {
+    background-image: url(../img/b17.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 45%;
+}
+
+.product-left-2 {
+    background-image: url(../img/b7.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+    width: 45%;
+}
+
+.product-left-3 {
+    background-image: url(../img/b18.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+    width: 45%;
+}
+
+.product-right {
+    background-image: url(../img/b10.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 45%;
+}
+
+.product-right-2 {
+    background-image: url(../img/b4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+    width: 45%;
+}
+
+.deals-details {
+    margin-top: 20%;
+    margin-left: 8%;
+}
+
+.deals-details-2 {
+    margin-top: 15%;
+    margin-left: 8%;
+}
+
+.btn-learn {
+    border: 1px solid white;
+}
+
+.subscribe {
+    background-color: #29293d;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clear: none;
+}
+
+.theme-color-btn {
+    color: white;
+    background-color: #088178;
+}
+
+.app {
+    border: 1px solid #088178;
+}
