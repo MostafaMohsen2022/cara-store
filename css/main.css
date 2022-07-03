@@ -48,6 +48,14 @@
     border-radius: 20px;
 }
 
+.product:hover {
+    box-shadow: 0 0 11px rgba(33, 33, 33, .2);
+}
+
+.btn-cart {
+    margin-top: -30px;
+}
+
 .repair {
     background-image: url(../img/b2.jpg);
     background-position: center;
